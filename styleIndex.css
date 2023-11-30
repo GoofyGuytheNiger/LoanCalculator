@@ -1,0 +1,30 @@
+/* styleIndex.css */
+
+.all {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.loan-amount, .loan-term, .interest {
+    margin-bottom: 20px;
+}
+
+.la, .lt, .ir {
+    padding: 10px;
+    width: 200px;
+}
+
+.welcome {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.info {
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.5;
+}
